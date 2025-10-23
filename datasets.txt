@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/adritpal08/dataset-of-indian-politics-tweets-and-reactions
+https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets
+https://www.kaggle.com/datasets/marcolorenzetti/european-elections-2019
